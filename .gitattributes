@@ -1,0 +1,7 @@
+# Global attributes for forcing line endings normalization of specific files
+
+* text=auto
+
+# Binaries
+*.png binary
+*.svg binary
